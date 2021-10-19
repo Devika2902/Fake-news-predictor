@@ -8,4 +8,4 @@
    Flask - For building web application
    Heroku - For deploying the web application
 ## Project link
-   [news validity predictor](https://news-validity-predictor.herokuapp.com/)
+   [News validity predictor](https://news-validity-predictor.herokuapp.com/)
